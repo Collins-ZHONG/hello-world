@@ -9,5 +9,4 @@ My first repository according to the instruction
 
 - # test
 - Interesting Github
-
-How to use different Markdown? Like ;) ?
+- How to use different Markdown? Like ;) ?
